@@ -1,0 +1,10 @@
+.custom-input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 0.5px solid rgba(62, 118, 187, 0.589);
+  width: 250px;
+}
+
+.custom-input::placeholder {
+  color: rgb(164, 164, 164);
+}

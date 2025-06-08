@@ -1,0 +1,23 @@
+.user-reg {
+  width: 100%;
+  margin: 20vh auto;
+  display: grid;
+  place-content: center;
+  gap: 10px;
+  box-shadow: 0px 0px 5px rgb(208, 208, 208);
+  padding: 20px 0px;
+}
+.user-reg-main {
+  width: 90%;
+  margin: auto;
+}
+.user-reg p {
+  width: 100%;
+  text-align: center;
+}
+.user-reg-main i {
+  position: absolute;
+  top: 80px;
+  font-size: 30px;
+  color: rgb(62, 118, 187);
+}

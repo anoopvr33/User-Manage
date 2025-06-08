@@ -1,0 +1,8 @@
+.search-bar {
+  display: flex;
+  gap: 5px;
+  /* background-color: antiquewhite; */
+}
+.search-btn {
+  width: 100%;
+}
