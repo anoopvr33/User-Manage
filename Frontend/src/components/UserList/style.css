@@ -1,0 +1,40 @@
+.user-list h3 {
+  width: 90%;
+  margin: 10vh auto;
+  text-align: center;
+  /* background-color: rgb(127, 153, 176); */
+}
+
+.user-list {
+  margin: 2vh auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.user-card {
+  border: 2px solid rgb(225, 225, 225);
+  padding: 10px;
+  display: grid;
+  width: 100%;
+  gap: 5px;
+  border-radius: 5px;
+}
+.user-card P {
+  color: rgb(145, 145, 145);
+}
+.user-btn {
+  width: 100%;
+  display: flex;
+  gap: 5px;
+  justify-content: end;
+}
+
+.user-list-main .fa-plus-circle {
+  /* width: 20px; */
+  margin: auto;
+  margin-right: 0px;
+  font-size: 30px;
+  color: rgb(62, 118, 187);
+  padding: 5px;
+}
